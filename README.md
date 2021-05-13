@@ -9,3 +9,7 @@ Play with branches
 
 Commit and push to test-branch
 
+## Main branch edits
+
+"Hope is a discipline" - Mariame Kaba
+
